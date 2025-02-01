@@ -6,6 +6,8 @@
 - Action: Performed Exploratory Data Analysis (EDA) using Python (Pandas, Seaborn, Matplotlib) to analyze key patterns like social media usage by age group, gender, and social media goals. Utilized advanced visualizations such as line graphs, pie charts, and boxplots to draw insights.
 - Result: Delivered actionable insights into user behavior, identifying key factors like the relationship between age and social media usage time, as well as trends in entertainment spending.
 
+- Discovered a 0.02% increase in entertainment spending among frequent social media users, highlighting a minimal spending difference, which suggests platform engagement may not directly impact expenditure levels.
+
 * DataSet: From Kaggle, Social Media and Entertainment Dataset (https://www.kaggle.com/datasets/ashaychoudhary/social-media-and-entertainment-dataset)
 
 ### Skills and Tools Utilized:
